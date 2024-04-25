@@ -7,5 +7,7 @@ Usage:
 * Download app from Github release
 * Register stcli.exe in path (see https://stackoverflow.com/questions/4822400/register-an-exe-so-you-can-run-it-from-any-command-line-in-windows)
 * Restart terminal
-* Run for a git repository folder ``sticli -f <folder-to-your-git-repo>``
-* Run for a folder that contains multiple git repositories  ``sticli -r -f <folder-that-contains-many-repos>``
+* Add repositories to bookmarks
+  * Run for a git repository folder ``sticli -f <folder-to-your-git-repo>``
+  * Run for a folder that contains multiple git repositories  ``sticli -r -f <folder-that-contains-many-repos>``
+* Enjoy newly added folders in SourceTree
